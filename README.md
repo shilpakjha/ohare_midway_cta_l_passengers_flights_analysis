@@ -24,7 +24,8 @@ statistics using pandas to answer the following questions:
 
 ## Data sources:
 * CTA_-Ridership-L-Station-Entries-Monthly-Day-Type-A/t2rn-p8d7: https://data.cityofchicago.org/Transportation/CTA-Ridership-L-Station-Entries-Monthly-Day-Type-A/t2rn-p8d7
-* L-stops: https://data.cityofchicago.org/Transportation/CTA-System-Information-List-of-L-Stops-Map/zbnc-zirh Taxi-Trip-2019: * https://data.cityofchicago.org/Transportation/Taxi-Trips-2019/h4cq-z3dy
+* L-stops: https://data.cityofchicago.org/Transportation/CTA-System-Information-List-of-L-Stops/8pix-ypme/data 
+* Taxi-Trip-2019: https://data.cityofchicago.org/Transportation/Taxi-Trips-2019/h4cq-z3dy
 * Transportation Network Providers 2019: https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Trips-2019/4j5r-ce5a
 * O'Hare and Midway Flights and Passenger Data: https://www.flychicago.com/business/CDA/factsfigures/Pages/airtraffic.aspx
 
@@ -36,6 +37,7 @@ statistics using pandas to answer the following questions:
 ## Credits 
 The following sites and resources were used to gain knowledge about CTA Ridership and problem solve coding and formatting issues: 
 * https://stackoverflow.com 
-* https://www.w3schools.com 
+* https://www.w3schools.com
+* https://black.now.sh
 * https://towardsdatascience.com/exploring-and-visualizing-chicago-transit-data-using-pandas-and-bokeh-part-ii-intro-to-bokeh-5dca6c5ced10
 * https://www.makeareadme.com
