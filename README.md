@@ -1,10 +1,10 @@
 ## Date created
 
-Project and README file created on 2020-05-15
+Project and README file created on 2020-12-05
 
 ## Project Title
 
-Analysis of CTA L-Ridership, O'Hare, Midway Airport Flights/Passenger Volumes, Population trend in Chicago Community Areas which include O'Hare, and Midway Airports.
+Analysis of CTA L, Taxi and TNP ridership to O'Hare and Midway Airports, Flights/Passenger Volumes at O'Hare, Midway Airports, Population trends in Chicago Community Areas which include O'Hare, and Midway Airports. 
 
 ## Description
 
@@ -25,6 +25,7 @@ statistics using pandas to answer the following questions:
 ## Data sources:
 * CTA_-Ridership-L-Station-Entries-Monthly-Day-Type-A/t2rn-p8d7: https://data.cityofchicago.org/Transportation/CTA-Ridership-L-Station-Entries-Monthly-Day-Type-A/t2rn-p8d7
 * L-stops: https://data.cityofchicago.org/Transportation/CTA-System-Information-List-of-L-Stops/8pix-ypme/data 
+* Chicago Community Areas Population Data (2013-2017): https://datahub.cmap.illinois.gov/dataset/1d2dd970-f0a6-4736-96a1-3caeb431f5e4/resource/96bc2e7d-9276-4d66-8cbf-63a0ed09a2a2/download/CDSarchive201906.zip
 * Taxi-Trip-2019: https://data.cityofchicago.org/Transportation/Taxi-Trips-2019/h4cq-z3dy
 * Transportation Network Providers 2019: https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Trips-2019/4j5r-ce5a
 * O'Hare and Midway Flights and Passenger Data: https://www.flychicago.com/business/CDA/factsfigures/Pages/airtraffic.aspx
